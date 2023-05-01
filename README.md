@@ -162,11 +162,29 @@ The [first example](./binarySearch.js) is binary search applied to a standard ar
 
 The [second example](./binarySearchTree.js) is binary search implemented for a BST.
 
-Note that in both cases you are guaranteed the input in some form, as binary search will only
-work on a sorted array or a tree satisfying the BST guarantees and either of these properties in
-your input data can clue you into the idea that binary search is a good approach.
+### General tips
 
-Also note that binary search can be somewhat finicky when determining the middle value so it's
-wise to test it and make sure it works correctly as off-by-one errors are common.
+Note that in both cases you are guaranteed the input in some form, as binary search will only work on a sorted array or a tree satisfying the BST guarantees and either of these properties in your input data can clue you into the idea that binary search is a good approach.
+
+Also note that binary search can be somewhat finicky when determining the middle value so it's wise to test it and make sure it works correctly as off-by-one errors are common.
+
+### Practice Problems
+
+#### Easy
+
+- [Binary Search](https://leetcode.com/problems/binary-search)
+
+- [First Bad Version](https://leetcode.com/problems/first-bad-version)
+
+- [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
+
+#### Medium
+
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+
+- [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)
+
+- [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
+
 
 
